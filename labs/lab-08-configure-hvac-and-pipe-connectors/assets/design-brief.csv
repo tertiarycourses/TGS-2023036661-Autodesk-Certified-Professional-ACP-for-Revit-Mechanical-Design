@@ -1,0 +1,5 @@
+Item,Design value,Unit,Evidence
+Supply air terminal,250,L/s,Terminal schedule
+Duct velocity target,6,m/s,Duct schedule
+CHW design delta T,5,K,Basis of Design
+Coordination clearance,150,mm,Clash register

@@ -1,0 +1,1 @@
+Architectural-Starter.rvt is copied from the supplied Revit Architectural Design reference. It is an architectural coordination starter only; it contains no verified mechanical systems. Create mechanical content in a new MEP project and save your own RVT.

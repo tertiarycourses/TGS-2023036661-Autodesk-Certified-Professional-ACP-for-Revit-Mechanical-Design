@@ -1,0 +1,12 @@
+.env
+.env.*
+.claude/
+.codex/
+assessment/
+reference/
+qa/
+build_mechanical.py
+build_mechanical_assessment.py
+__pycache__/
+.DS_Store
+courseware/archive/
