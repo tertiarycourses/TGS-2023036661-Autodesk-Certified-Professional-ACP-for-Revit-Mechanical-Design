@@ -10,3 +10,10 @@ build_mechanical_assessment.py
 __pycache__/
 .DS_Store
 courseware/archive/
+
+# Facilitator Guide + Assessment Plan embed the answer keys and rubric:
+# trainer-only (Google Drive + TMS), never GitHub
+**/FG_*
+**/FG-*
+**/Assessment_Plan_*
+**/AP-*
